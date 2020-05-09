@@ -1,5 +1,3 @@
-# splorganizer
-
 <img src=https://github.com/ebai101/splorganizer/raw/master/logo.png width=411 height=172></img>
 
 ### what is this
