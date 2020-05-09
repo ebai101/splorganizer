@@ -1,5 +1,7 @@
 # splorganizer
 
+<img src=https://github.com/ebai101/splorganizer/raw/master/logo.png width=411 height=172></img>
+
 ### what is this
 
 Splice's local file storage isn't really designed to be navigated without using the app. I prefer to use the file browser in my DAW, as I'm sure many people do, and I have my other samples organized by the type of sound instead of by sample pack. Switching back and forth between the app and the DAW is a bit cumbersome, and it bypasses a lot of the integrated features of integrated file browsers.
