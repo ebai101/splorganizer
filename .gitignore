@@ -5,3 +5,4 @@ sounds.db
 __pycache__/
 SpliceLogs-*/*
 sounds.db-journal
+splorganizer_config.py
