@@ -3,3 +3,5 @@ sounds.db
 .DS_Store
 .ipynb_checkpoints
 __pycache__/
+SpliceLogs-*/*
+sounds.db-journal
