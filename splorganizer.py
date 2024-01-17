@@ -5,7 +5,6 @@ import re
 import json
 import shutil
 import sqlite3
-from pathlib import Path
 from splorganizer_config import sounds_db_paths, sorted_dir
 
 
